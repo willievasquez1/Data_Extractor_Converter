@@ -1,0 +1,56 @@
+Title: Comprehensive Test Input for Data Processing Pipeline
+
+1. Normal Text:
+This is a sample input file for testing the data processing pipeline. It contains various types of text that will be cleaned and processed.
+
+2. Hip-Hop Slang and Contractions:
+Yo, homie! This pipeline is dope, ain't it? We're gonna flex our NLP skills and drop some sick beats on this text. It's gonna be lit!
+
+3. Mathematical Expressions:
+Let's include some math: E = mc^2 is Einstein's famous equation. The quadratic formula is x = (-b ± √(b^2 - 4ac)) / (2a).
+
+4. Special Characters and Emojis:
+Check out these special chars: @#$%^&*()_+{}|:"<>?~`-=[]\\;',./
+And some emojis: 😊🚀🎉👍💻
+
+5. URLs and Email Addresses:
+Visit our website at https://www.example.com or contact us at info@example.com.
+
+6. Numbers and Dates:
+The year is 2023, and the date is September 2nd. The time is 15:30, and the temperature is 72°F.
+
+7. Stopwords and Common Words:
+The quick brown fox jumps over the lazy dog. A the an and or but in on at to for.
+
+8. Accented Characters:
+Café, naïve, résumé, über, piñata, façade.
+
+9. Abbreviations and Acronyms:
+NASA, FBI, CEO, Ph.D., Mr., Dr., etc., i.e., e.g.
+
+10. Mixed Case and Formatting:
+ThIs SeNtEnCe HaS mIxEd CaSe. THIS ONE IS ALL CAPS. this one is lowercase.
+
+11. Repeated Words and Punctuation:
+The  the  the  cat  cat  cat...  Is  is  is  sleeping!!!???
+
+12. Technical Jargon:
+The API uses REST architecture with JSON payloads. The SQL query joins two tables using an inner join.
+
+13. Hip-Hop Lyrics (Sample):
+I'm a lyrical miracle, spiritual individual
+Criminal subliminal in your swimming pool
+My rhymes are skippin' and flippin' and dippin' and skippin'
+The illest and realest, my skill is the sickest
+
+14. Complex Mathematical Expression:
+The Fourier transform F(ω) of f(t) is given by:
+F(ω) = ∫[−∞ to ∞] f(t) * e^(−iωt) dt
+
+15. Code Snippet:
+def process_text(input_text):
+    cleaned_text = clean(input_text)
+    normalized_text = normalize(cleaned_text)
+    return analyze(normalized_text)
+
+END OF SAMPLE INPUT 

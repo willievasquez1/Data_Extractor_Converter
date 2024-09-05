@@ -1,0 +1,25 @@
+input:
+  file_types:
+    - pdf
+    - docx
+    - xlsx
+    - txt
+    - pptx
+  input_directory: "/Users/mdk/Documents/doc_data_extractor/input"
+
+extraction:
+  techniques:
+    - ocr
+    - text_parsing
+    - table_extraction
+
+output:
+  formats:
+    - txt
+    - csv
+    - json
+  output_directory: "/Users/mdk/Documents/doc_data_extractor/output"
+
+complex_content:
+  handle_equations: true
+  handle_unfiltered_language: true
